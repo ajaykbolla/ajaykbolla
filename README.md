@@ -75,7 +75,7 @@ I am a Data Engineer <img src = "https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### :fire: &nbsp; My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/ajaykbolla/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykbolla&layout=compact&theme=vision-friendly-dark)](https://github.com/ajaykbolla/github-readme-stats)
 
 
 ---
