@@ -1,16 +1,21 @@
 
-<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="90"/></p>
-
-
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ajaykbolla&style=flat-square&color=blue" width = "120" alt=""></p>
-
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"  /></p>
 
 
----
+
+
+
+
+
+
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+
+
+<br><p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"/></p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ajaykbolla&style=flat-square&color=blue" width = "130" alt=""></p>
+
 
 ### :man_technologist:  &nbsp; About Me :
 
