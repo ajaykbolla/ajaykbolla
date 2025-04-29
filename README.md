@@ -26,8 +26,7 @@ I am a Data-Driven Supply Chain Professional <img src = "https://media.giphy.com
 
 - :seedling: Beyond supply chains, I enjoy exploring technical content writing, where I translate complex ideas into clear and actionable insights for the broader tech community.
 
-- :zap: When I'm not immersed in supply chain models or analytics dashboards, you’ll find me solving algorithmic challenges on GeeksforGeeks or diving into the latest innovations in data science, AI, and supply chain technology.
-
+- :zap: When I'm not immersed in analytics, you’ll find me brainstorming new ways to blend technology, innovation, and real-world supply chain challenges.
 
 
 
