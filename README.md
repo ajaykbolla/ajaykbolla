@@ -22,11 +22,11 @@
 I am a Data Enthusiast <img src = "https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m a Supply Chain Analytics Manager, leveraging data analytics and visualization tools to optimize supply chain operations and deliver impactful business insights.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Beyond supply chains, I enjoy exploring technical content writing, where I translate complex ideas into clear and actionable insights for the broader tech community.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: When I'm not immersed in supply chain models or analytics dashboards, you’ll find me solving algorithmic challenges on GeeksforGeeks or diving into the latest innovations in data science, AI, and supply chain technology.
 
 
 
