@@ -19,7 +19,7 @@
 
 ### :man_technologist:  &nbsp; About Me :
 
-I am a Data Enthusiast <img src = "https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Data-Driven Supply Chain Professional <img src = "https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
 - :telescope: I’m a Supply Chain Analytics Manager, leveraging data analytics and visualization tools to optimize supply chain operations and deliver impactful business insights.
